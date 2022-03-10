@@ -1,5 +1,5 @@
-# DUC-Tools
-Tools, templates, and validators/schema for the creation of Digital Use Conditions (DUC) Profiles
+# DUC-CCE
+Tools, templates, examples, and validators/schema for the creation of Digital Use Conditions (DUC) Profiles with Common Conditions of Use Elements (CCE)
 
 # CCE RULE
 <img src="./condition1.png">
