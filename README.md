@@ -9,7 +9,7 @@ Tools, templates, examples, and validators/schema for the creation of Digital Us
 
 # OUTPUT (diagram)
 
-<img src="./CommercialUseForbidden_CCE.drawio.png">
+<img src="./CommercialUseForbidden_CCE.png">
 
 <br/>
 
