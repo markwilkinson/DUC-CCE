@@ -104,10 +104,10 @@ Tools, templates, examples, and validators/schema for the creation of Digital Us
       "odrl:datatype": {
         "@id": "xsd:anyURI"
       },
-      "odrl:leftoperand": {
+      "odrl:leftOperand": {
         "@id": "odrl:industry"
       },
-      "odrl:rightoperand": {
+      "odrl:rightOperand": {
         "@id": "obo:ICO_0000049"
       },
       "odrl:operator": {
