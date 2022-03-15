@@ -1,0 +1,19 @@
+CCE," Name",Rule Type," ODRL Entity",Independent?
+1," Commercial Entity",Offer," Party","1,12?"
+2,Geographic Area,Offer,Rule,
+3,Regulatory Jurisdition,Offer,Rule,
+4,Research Use,Offer,Rule or party?,
+5,Clinical Care,Offer,Rule,
+6,Clinical Research,Offer,Rule,
+7,Disease Specific,Offer,Rule (maybe two?),
+8,Use as Control,Offer,Rule,
+9,Re-identification,Offer,Rule,
+10,Time Limited,Agreement,Rule,
+11,Collaboration,Agreement,Party,
+12,Fees,Agreement,Rule,"1,12?"
+13,Return of Results,Agreement,Rule,
+14,Return of Incidental Findings,Agreement,Rule,
+15,Publication Moratorium,Agreement,Rule or party?,"15,16"
+16,Publication,Agreement,Rule or party?,"15,16"
+17,Authentication Required,Agreement,Party,
+18,Ethics Approval Required,Agreement,Party,
